@@ -1,0 +1,15 @@
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\bin\Debug\net6.0\hangman-cs.exe
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\bin\Debug\net6.0\hangman-cs.deps.json
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\bin\Debug\net6.0\hangman-cs.runtimeconfig.json
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\bin\Debug\net6.0\hangman-cs.dll
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\bin\Debug\net6.0\hangman-cs.pdb
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.csproj.AssemblyReference.cache
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.AssemblyInfoInputs.cache
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.AssemblyInfo.cs
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.csproj.CoreCompileInputs.cache
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.dll
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\refint\hangman-cs.dll
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.pdb
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\hangman-cs.genruntimeconfig.cache
+C:\Users\teaki\Desktop\hello\hangman-cs\hangman-cs\obj\Debug\net6.0\ref\hangman-cs.dll
